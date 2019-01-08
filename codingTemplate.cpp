@@ -7,6 +7,10 @@ using namespace std;
 #define MAX_RANGE 10000007
 #define BOOST ios_base::sync_with_stdio(0) 
 #define NITRO cin.tie(NULL)
+#define pb push_back
+#define mp make_pair
+#define F first
+#define S second
 int parent[200007];
 int size[200007];
 int nexti[200007];
